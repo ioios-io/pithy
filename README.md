@@ -2,9 +2,7 @@
 
 # The Pithy Range @ [ioios.io](https://ioios.io/products/pithy)
 
-![GitHub](https://img.shields.io/github/license/ioios-io/pithy) ![GitHub repo size](https://img.shields.io/github/repo-size/ioios-io/pithy) [![GitHub Last Commit](https://img.shields.io/github/last-commit/ioios-io/pithy.svg)](https://img.shields.io/github/last-commit/ioios-io/pithy.svg)
-
-![GitHub issues](https://img.shields.io/github/issues-raw/ioios-io/pithy) ![GitHub pull requests](https://img.shields.io/github/issues-pr/ioios-io/pithy) ![GitHub contributors](https://img.shields.io/github/contributors/ioios-io/pithy)
+![GitHub](https://img.shields.io/github/license/ioios-io/pithy) ![GitHub repo size](https://img.shields.io/github/repo-size/ioios-io/pithy) [![GitHub Last Commit](https://img.shields.io/github/last-commit/ioios-io/pithy.svg)](https://img.shields.io/github/last-commit/ioios-io/pithy.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/ioios-io/pithy) ![GitHub pull requests](https://img.shields.io/github/issues-pr/ioios-io/pithy) ![GitHub contributors](https://img.shields.io/github/contributors/ioios-io/pithy)
 ---
 ## The quickest way to add extra control to your Smart Home
 [<img align="right" src="./assets/ioios-300W-inverted.png?raw=true">](https://ioios.io) The Pithy range was conceived to fill the gap in the smart home arena so as to provide simple and intuitive phyiscal controls for adjusting volume, dimming lights, changing heating settings or whatever you chose!
