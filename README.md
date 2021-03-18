@@ -12,7 +12,7 @@ The Open-Source devices are centered around a Wemos D1 Mini and they all feature
 <img src="./assets/PithyRangeLabelled.png?raw=true">
 
 ## The Files
-In this repo you will find both the PCB files and the cases. In both sections the files are provided in multiple formats and include the official designs and also community contributions (the 'remixes' folders).
+In this repo you will find both the PCB files and the cases. In both sections the files are provided in multiple formats and include the official designs and also community contributions.
 ##### The Design Process
 The PCBs were designed in Autodesk Eagle (using a custom made component library with 100% 3D renders). They were then imported/linked to Autodesk Fusion 360 where the cases were designed to perfectly fit and compliemnt the PCBs.
 
