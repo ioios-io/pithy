@@ -1,5 +1,5 @@
-## Pithy Screen Plus
-STL files for the Pithy Screen Plus models.
+## Pithy Dial Plus
+STL files for the Pithy Dial Plus models.
 ___
 
 #### Mounting Options

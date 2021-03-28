@@ -1,5 +1,5 @@
 ## Pithy Pixel
-
+STL files for the Pithy Pixel models.
 ___
 
 #### Mounting Options

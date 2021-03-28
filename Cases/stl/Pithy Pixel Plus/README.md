@@ -1,5 +1,5 @@
-## Pithy Screen Plus
-STL files for the Pithy Screen Plus models.
+## Pithy Pixel Plus
+STL files for the Pithy Pixel Plus models.
 ___
 
 #### Mounting Options
