@@ -11,6 +11,24 @@ The Open-Source devices are centered around a Wemos D1 Mini and they all feature
 
 <img src="./assets/PithyRangeLabelled.png?raw=true">
 
+## Pins
+When writing esphome configuration for the Pithy range you will need to use the following pins for the latest board versions.
+
+| Function         | D1 Mini PIN |
+|------------------|-------------|
+| I2C Clock        | D3          |
+| I2C Data         | D4          |
+| Side Button      | TX          |
+| PIR Sensor 1*    | D1          |
+| PIR Sensor 2*    | D2          |
+| Rotary Encoder A | D5          |
+| Rotary Encoder B | D6          |
+| Rotary Switch    | D7          |
+| NeoPixels*       | RX          |
+| DHT22 Temp*      | D0          |
+
+(* Denotes items that may not be installed on all versions of a given model)
+
 ## The Files
 In this repo you will find both the PCB files and the cases. In both sections the files are provided in multiple formats and include the official designs and also community contributions.
 ##### The Design Process
